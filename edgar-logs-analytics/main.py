@@ -1,8 +1,3 @@
-# project: p4
-# submitter: adahiya3
-# partner: none
-# hours: 20
-
 #Imports
 import pandas as pd
 import zipfile
